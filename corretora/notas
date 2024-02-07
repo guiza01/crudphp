@@ -1,0 +1,22 @@
+<?php 
+        //$cpf = "";
+        //$creci = "";
+        //$nome = "";
+        //if ($_SERVER["REQUEST_METHOD"] == "POST") {
+        //    $cpf = $_POST["cpf"];
+        //    $creci = $_POST["creci"];
+        //    $nome = $_POST["nome"];
+        
+        //$sql = "UPDATE corretores SET 
+        //        cpf = '$cpf',
+        //        creci = '$creci',
+        //       nome = '$nome'
+                
+        //        WHERE id=".$_REQUEST["id"];
+        //$res = $conn->query($sql);
+        //$row = $res->fetch_object();
+        //if ($res == true){
+        //    print "<script>alert('Atualizado com sucesso');</script>";
+        //} 
+        //}
+        ?>
